@@ -82,7 +82,6 @@
 	import {store} from 'utils/';
 	const distributeMenuPermission = 'iprp_order_manage_fenpei';
 	import 'echarts/map/js/jiaxing.js';
-	import $ from 'jquery';
 	export default {
 		name: 'order-list',
 		data() {
