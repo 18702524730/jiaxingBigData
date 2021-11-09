@@ -93,7 +93,7 @@
 				distributeIsAllowed:false,
 				namelist1:[
 					{value:'嘉兴职业技术学院 ',num:3679},
-					{value:'嘉兴学院 ',num:2663},
+					{value:'嘉兴学院',num:2663},
 					{value:'浙江亚特电器有限公司 ',num:1328},
 					{value:'桐乡市濮院毛针织技术服务中心',num:1255},
 					{value:'浙江晶科能源有限公司',num:992},
